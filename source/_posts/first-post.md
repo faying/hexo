@@ -65,7 +65,7 @@ Password:空格
     
     sudo nano /etc/profile
 
-```bash    
+``` bash    
 JAVA_HOME="/usr/lib/jvm/java-7-oracle"
 JRE_HOME="$JAVA_HOME/jre"
 export JAVA_HOME
@@ -132,18 +132,18 @@ install.packages("shiny")
     R CMD javareconf
     R
     
-```r
+``` r
 install.packages('rJava',,'http://www.rforge.net/')
 ```
 
     
 ### Rserve 提供与Java连接的服务
-```r
+``` r
 install.packages("Rserve")
 ```
 ### 其他分析用R包
     
-```r
+``` r
 install.packages("Hmisc")
 install.packages("rmarkdown")
 install.packages("RJSONIO")
