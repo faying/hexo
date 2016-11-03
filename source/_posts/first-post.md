@@ -2,14 +2,14 @@
 title: R Shiny Server (Ubuntu 14.04) 配置
 ---
 
-##用户配置
+## 用户配置
 
 Username:r
 
 Password:空格
 
-##基础环境配置
-###自動選擇最快的源
+## 基础环境配置
+### 自動選擇最快的源
     sudo apt-get install unzip 
     sudo apt-get install python-setuptools
     wget -O getfastmirror-master.zip https://github.com/alvan/getfastmirror/archive/master.zip
@@ -17,7 +17,7 @@ Password:空格
     cd ./getfastmirror-master/
     sudo ./setup.py install
     sudo getfastmirror update -t
-###安装ssh访问
+### 安装ssh访问
 
 
     sudo apt-get install openssh-server
@@ -25,16 +25,16 @@ Password:空格
     sudo apt-get upgrade
     sudo apt-get install open-vm-tools
     
-###安装中文语言配置
+### 安装中文语言配置
 
     sudo apt-get install language-pack-zh-hant
     sudo apt-get install language-pack-zh-hans
 
-###关闭防火墙
+### 关闭防火墙
 
     sudo apt-get autoremove iptables 
 
-##安装Oracle JDK
+## 安装Oracle JDK
 检查是否已安装JDK
 
     java -version
@@ -81,7 +81,7 @@ export LD_LIBRARY_PATH=/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/jav
     java -version
     
     
-##安装R依賴
+## 安装R依賴
 
     
     sudo apt-get -y install build-essential gfortran libreadline6 libreadline6-dev xorg-dev cairo-dock cairo-dock-plug-ins git automake automake autotools-dev libbison-dev byacc zip gobjc
@@ -97,7 +97,7 @@ export LD_LIBRARY_PATH=/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/jav
     sudo apt-get clean                    
     sudo apt-get autoremove             
     
-##安裝R
+## 安裝R
     
     sudo apt-add-repository -y "deb http://cran.rstudio.com/bin/linux/ubuntu `lsb_release -cs`/"
     sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E084DAB9
@@ -111,22 +111,22 @@ export LD_LIBRARY_PATH=/usr/lib/jvm/java-7-oracle/jre/lib/amd64:/usr/lib/jvm/jav
     sudo ./RevoMath.sh
 
     
-###安装RStudio Server
+### 安装RStudio Server
     https://dailies.rstudio.com/
     sudo apt-get install gdebi-core
     wget https://s3.amazonaws.com/rstudio-dailybuilds/rstudio-server-0.99.1116-amd64.deb
     sudo gdebi rstudio-server-0.99.1116-amd64.deb
     
 
-###安装Shiny Server
+### 安装Shiny Server
 ```r
 install.packages("shiny")
 ```
      wget https://s3.amazonaws.com/rstudio-shiny-server-os-build/ubuntu-12.04/x86_64/shiny-server-1.4.2.789-amd64.deb
       sudo gdebi shiny-server-1.4.2.789-amd64.deb
 
-##安装R Packages
-###rJava
+## 安装R Packages
+### rJava
 
     
     R CMD javareconf
@@ -137,11 +137,11 @@ install.packages('rJava',,'http://www.rforge.net/')
 ```
 
     
-###Rserve 提供与Java连接的服务
+### Rserve 提供与Java连接的服务
 ```r
 install.packages("Rserve")
 ```
-###其他分析用R包
+### 其他分析用R包
     
 ```r
 install.packages("Hmisc")
