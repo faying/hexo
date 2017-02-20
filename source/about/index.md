@@ -38,7 +38,6 @@ date: 2016-11-02 18:58:23
 
 ## 相关活动照片
 
-<img src="http://share.jiangyefei.me/aq3W+" width="800" />
 <img src="http://share.jiangyefei.me/asxl+" width="800" />
 <img src="http://share.jiangyefei.me/GOLG+" width="800" />
 <img src="http://share.jiangyefei.me/QV8Q+" width="800" />
