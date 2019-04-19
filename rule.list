@@ -1,0 +1,20 @@
+DOMAIN,app.adjust.com,DIRECT // Added for webpage: app.adjust.com:443
+DOMAIN-SUFFIX,hockeyapp.net,Direct // Added for webpage: gate.hockeyapp.net:443
+DOMAIN,app-measurement.com,DIRECT // Added for webpage: app-measurement.com:443
+DOMAIN-SUFFIX,data.mob.com,DIRECT // Added for webpage: http://c.data.mob.com/v3/cdata
+PROCESS-NAME,/Applications/Skype for Business.app/Contents/MacOS/Skype for Business,DIRECT
+DOMAIN-SUFFIX,microsoftonline-p.com,DIRECT // Added for webpage: secure.aadcdn.microsoftonline-p.com:443
+DOMAIN-SUFFIX,technews.tw,Proxy // Added for webpage: http://technews.tw/2018/11/05/china-spy-german-depot/
+DOMAIN-SUFFIX,vip.symantec.com,DIRECT // Added for webpage: services.vip.symantec.com:443
+PROCESS-NAME,/Users/jiangyefei/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper,DIRECT
+PROCESS-NAME,/Users/jiangyefei/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx,DIRECT
+DOMAIN-SUFFIX,microsoft.com,DIRECT // Added for webpage: i.manage.microsoft.com:443
+DOMAIN-SUFFIX,crittercism.com,DIRECT // Added for webpage: 5-7-3-phonegap-ios.error.ingest.crittercism.com:443
+DOMAIN-SUFFIX,microsoftonline.com,DIRECT // Added for webpage: login.microsoftonline.com:443
+DOMAIN-SUFFIX,vortex.data.microsoft.com,DIRECT // Added for webpage: vortex.data.microsoft.com:443
+DOMAIN-SUFFIX,accenture.com,DIRECT // Added for webpage: aparp03.lyncweb.accenture.com:443
+PROCESS-NAME,storedownloadd,Domestic // Mac App Store
+USER-AGENT,com.apple.appstored*,Domestic // iOS App Store
+DOMAIN,iosapps.itunes.apple.com,Domestic
+DOMAIN,xp.apple.com,Domestic // iOS & macOS System Upgrade
+DOMAIN-SUFFIX,store.apple.com,Domestic
