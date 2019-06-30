@@ -24,4 +24,4 @@ DOMAIN-SUFFIX,appconfigloader.ptengine.cn,reject
 DOMAIN-SUFFIX,datasink.sensorsdata.cn,reject
 DOMAIN-SUFFIX,abtest.adidas.com.cn,reject
 DOMAIN-SUFFIX,col001.ip-label.net,reject
-DOMAIN-KEYWORD,tracker,reject
+# DOMAIN-KEYWORD,tracker,reject
