@@ -12,9 +12,16 @@ DOMAIN-SUFFIX,microsoft.com,DIRECT // Added for webpage: i.manage.microsoft.com:
 DOMAIN-SUFFIX,crittercism.com,DIRECT // Added for webpage: 5-7-3-phonegap-ios.error.ingest.crittercism.com:443
 DOMAIN-SUFFIX,microsoftonline.com,DIRECT // Added for webpage: login.microsoftonline.com:443
 DOMAIN-SUFFIX,vortex.data.microsoft.com,DIRECT // Added for webpage: vortex.data.microsoft.com:443
-DOMAIN-SUFFIX,accenture.com,DIRECT // Added for webpage: aparp03.lyncweb.accenture.com:443
+DOMAIN-SUFFIX,accenture.com,Proxy // Added for webpage: aparp03.lyncweb.accenture.com:443
 PROCESS-NAME,storedownloadd,Domestic // Mac App Store
 USER-AGENT,com.apple.appstored*,Domestic // iOS App Store
 DOMAIN,iosapps.itunes.apple.com,Domestic
 DOMAIN,xp.apple.com,Domestic // iOS & macOS System Upgrade
 DOMAIN-SUFFIX,store.apple.com,Domestic
+DOMAIN-SUFFIX,accenture.com,Proxy
+DOMAIN-SUFFIX,mp.ptengine.cn,reject
+DOMAIN-SUFFIX,appconfigloader.ptengine.cn,reject
+DOMAIN-SUFFIX,datasink.sensorsdata.cn,reject
+DOMAIN-SUFFIX,abtest.adidas.com.cn,reject
+DOMAIN-SUFFIX,col001.ip-label.net,reject
+DOMAIN-KEYWORD,tracker,reject
