@@ -18,7 +18,6 @@ USER-AGENT,com.apple.appstored*,Domestic // iOS App Store
 DOMAIN,iosapps.itunes.apple.com,Domestic
 DOMAIN,xp.apple.com,Domestic // iOS & macOS System Upgrade
 DOMAIN-SUFFIX,store.apple.com,Domestic
-# DOMAIN-SUFFIX,accenture.com,Proxy
 DOMAIN-SUFFIX,mp.ptengine.cn,REJECT
 DOMAIN-SUFFIX,appconfigloader.ptengine.cn,REJECT
 DOMAIN-SUFFIX,datasink.sensorsdata.cn,REJECT
