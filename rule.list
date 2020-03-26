@@ -35,3 +35,5 @@ DOMAIN-SUFFIX,adashx.m.taobao.com,REJECT
 DOMAIN-SUFFIX,acs.m.taobao.com,REJECT
 DOMAIN-SUFFIX,audid-api.taobao.com,REJECT
 DOMAIN-SUFFIX,retcode.taobao.com,REJECT
+DOMAIN-SUFFIX,arms-retcode.aliyuncs.com,REJECT
+DOMAIN-SUFFIX,retcode.taobao.com,REJECT
