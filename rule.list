@@ -33,3 +33,5 @@ DOMAIN-SUFFIX,ucweb.com,REJECT
 DOMAIN-SUFFIX,api.m.taobao.com,REJECT
 DOMAIN-SUFFIX,adashx.m.taobao.com,REJECT
 DOMAIN-SUFFIX,acs.m.taobao.com,REJECT
+DOMAIN-SUFFIX,audid-api.taobao.com,REJECT
+DOMAIN-SUFFIX,retcode.taobao.com,REJECT
