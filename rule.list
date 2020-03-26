@@ -28,3 +28,7 @@ DOMAIN-SUFFIX,mobile-collector.newrelic.com,REJECT
 DOMAIN-SUFFIX,col001.ip-label.net,REJECT
 DOMAIN-SUFFIX,umeng.com,REJECT
 DOMAIN-KEYWORD,tracker,REJECT
+DOMAIN-SUFFIX,adash-c.ut.taobao.com,REJECT
+DOMAIN-SUFFIX,ucweb.com,REJECT
+DOMAIN-SUFFIX,api.m.taobao.com,REJECT
+DOMAIN-SUFFIX,umeng.com,REJECT
