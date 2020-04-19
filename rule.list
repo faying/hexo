@@ -5,7 +5,6 @@ DOMAIN-SUFFIX,data.mob.com,DIRECT // Added for webpage: http://c.data.mob.com/v3
 PROCESS-NAME,/Applications/Skype for Business.app/Contents/MacOS/Skype for Business,DIRECT
 DOMAIN-SUFFIX,microsoftonline-p.com,DIRECT // Added for webpage: secure.aadcdn.microsoftonline-p.com:443
 DOMAIN-SUFFIX,technews.tw,Proxy // Added for webpage: http://technews.tw/2018/11/05/china-spy-german-depot/
-DOMAIN-SUFFIX,vip.symantec.com,DIRECT // Added for webpage: services.vip.symantec.com:443
 PROCESS-NAME,/Users/jiangyefei/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper,DIRECT
 PROCESS-NAME,/Users/jiangyefei/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx,DIRECT
 DOMAIN-SUFFIX,microsoft.com,DIRECT // Added for webpage: i.manage.microsoft.com:443
