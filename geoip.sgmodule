@@ -1,0 +1,5 @@
+#!name=GeoIP
+#!desc=GeoIP-CN
+
+[General]
+geoip-maxmind-url = https://github.com/Hackl0us/GeoIP-CN/raw/master/artifacts/Country.mmdb
