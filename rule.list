@@ -41,3 +41,6 @@ DOMAIN-SUFFIX,mlinks.cc,REJECT // Added for webpage: stats.mlinks.cc:443
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT // Added for webpage: api-access.pangolin-sdk-toutiao.com:443
 DOMAIN-SUFFIX,mapi.m.jd.com,REJECT // Added for webpage: mapi.m.jd.com:443
 DOMAIN-SUFFIX,file.hori-gz.com,REJECT // Added for webpage: http://file.hori-gz.com/upload/images/20200901/202009011430039678116.jpg
+DOMAIN-SUFFIX,cgi.connect.qq.com,REJECT
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
+DOMAIN-SUFFIX,umsns.com,REJECT
