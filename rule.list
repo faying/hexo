@@ -27,3 +27,17 @@ DOMAIN-SUFFIX,adash-c.ut.taobao.com,REJECT
 DOMAIN-SUFFIX,ucweb.com,REJECT
 DOMAIN-SUFFIX,adashx.m.taobao.com,REJECT
 DOMAIN-SUFFIX,arms-retcode.aliyuncs.com,REJECT
+DOMAIN-SUFFIX,baichuan-sdk.alicdn.com,REJECT // Added for webpage: baichuan-sdk.alicdn.com:443
+DOMAIN-SUFFIX,ut.taobao.com,REJECT // Added for webpage: adashxgc.ut.taobao.com:443
+DOMAIN-SUFFIX,bd.hori-gz.com,REJECT // Added for webpage: http://bd.hori-gz.com//horiBigData/servlet/terminalServlet
+DOMAIN-SUFFIX,sso.lxjapp.com,REJECT // Added for webpage: http://sso.lxjapp.com//chims/servlet/csGetLatestSoftwareVersionServlet
+DOMAIN-SUFFIX,mms.hori-gz.com,REJECT // Added for webpage: mms.hori-gz.com:8443
+DOMAIN-SUFFIX,adashbc.ut.taobao.com,REJECT // Added for webpage: adashbc.ut.taobao.com:443
+DOMAIN-SUFFIX,sdk.e.qq.com,REJECT // Added for webpage: sdk.e.qq.com:443
+DOMAIN-SUFFIX,ad.hori-gz.com,REJECT // Added for webpage: ad.hori-gz.com:443
+DOMAIN-SUFFIX,adfile.hori-gz.com,REJECT // Added for webpage: http://adfile.hori-gz.com//adms/servlet/getAppPalyList
+DOMAIN-SUFFIX,snssdk.com,REJECT // Added for webpage: https://smr.snssdk.com/c/m?region=TW&os=1&app_ver=5.7.08&appkey=df979cdb-05a7-448c-bece-92d5005a1247&os_ver=iOS%2014.4&ver=0.8.14.14-ext&hostVersion=3.3.0.2
+DOMAIN-SUFFIX,mlinks.cc,REJECT // Added for webpage: stats.mlinks.cc:443
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT // Added for webpage: api-access.pangolin-sdk-toutiao.com:443
+DOMAIN-SUFFIX,mapi.m.jd.com,REJECT // Added for webpage: mapi.m.jd.com:443
+DOMAIN-SUFFIX,file.hori-gz.com,REJECT // Added for webpage: http://file.hori-gz.com/upload/images/20200901/202009011430039678116.jpg
