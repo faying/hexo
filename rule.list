@@ -44,3 +44,5 @@ DOMAIN-SUFFIX,file.hori-gz.com,REJECT // Added for webpage: http://file.hori-gz.
 DOMAIN-SUFFIX,cgi.connect.qq.com,REJECT
 DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,umsns.com,REJECT
+PROCESS-NAME,/Applications/Turbo Boost Switcher Pro.app/Contents/MacOS/Turbo Boost Switcher Pro,REJECT
+
