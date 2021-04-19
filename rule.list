@@ -46,3 +46,4 @@ DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,umsns.com,REJECT
 #PROCESS-NAME,/Applications/Turbo Boost Switcher Pro.app/Contents/MacOS/Turbo Boost Switcher Pro,REJECT
 DOMAIN-SUFFIX,shaowa.deloitte.cn,Proxy 
+DOMAIN-SUFFIX,giowx.cartier.cn,REJECT
