@@ -48,3 +48,6 @@ DOMAIN-SUFFIX,umsns.com,REJECT
 DOMAIN-SUFFIX,shaowa.deloitte.cn,Proxy 
 DOMAIN-SUFFIX,giowx.cartier.cn,REJECT
 DOMAIN-SUFFIX,remoteaccess.richemont.com,DIRECT
+DOMAIN-SUFFIX,adtrack.xiaojukeji.com,REJECT
+DOMAIN-SUFFIX,log.trackingio.com,REJECT
+DOMAIN-SUFFIX,xdrig.com,REJECT
