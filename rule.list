@@ -51,3 +51,6 @@ DOMAIN-SUFFIX,remoteaccess.richemont.com,DIRECT
 DOMAIN-SUFFIX,adtrack.xiaojukeji.com,REJECT
 DOMAIN-SUFFIX,log.trackingio.com,REJECT
 DOMAIN-SUFFIX,xdrig.com,REJECT
+DOMAIN-SUFFIX,ad.teencentmusic.com,REJECT
+DOMAIN-SUFFIX,adstats.teencentmusic.com,REJECT
+
