@@ -53,4 +53,8 @@ DOMAIN-SUFFIX,log.trackingio.com,REJECT
 DOMAIN-SUFFIX,xdrig.com,REJECT
 DOMAIN-SUFFIX,ad.teencentmusic.com,REJECT
 DOMAIN-SUFFIX,adstats.teencentmusic.com,REJECT
-
+DOMAIN-SUFFIX,sy.cl2009.com,REJECT
+DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net,REJECT
+DOMAIN-SUFFIX,dreport.meituan.net,REJECT
+DOMAIN-SUFFIX,sankuai.com,REJECT
+DOMAIN-SUFFIX,catdot.dianping.com,REJECT
