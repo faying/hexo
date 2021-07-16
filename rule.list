@@ -98,9 +98,10 @@ DOMAIN-SUFFIX,tysdk.95516.com,REJECT
 DOMAIN-SUFFIX,analytics.95516.com,REJECT
 DOMAIN-SUFFIX,getui.com,REJECT
 DOMAIN-SUFFIX,logfiles.zoom.us,REJECT
-DOMAIN-SUFFIX,img.meituan.net/management,REJECT
+DOMAIN-KEYWORD,img.meituan.net/management,REJECT
 DOMAIN-SUFFIX,p1.meituan.net,REJECT
 DOMAIN-SUFFIX,p0.meituan.net,REJECT
-DOMAIN-SUFFIX,meituan.net/groceryimages,REJECT
-DOMAIN-SUFFIX,meituan.net/mallimages,REJECT
+DOMAIN-KEYWORD,meituan.net/groceryimages,REJECT
+DOMAIN-KEYWORD,meituan.net/mallimages,REJECT
 DOMAIN-SUFFIX,grocery-mtapp.meituan.com,REJECT
+IP-CIDR,111.77.198.82,REJECT
