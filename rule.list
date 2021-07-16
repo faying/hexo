@@ -104,4 +104,4 @@ DOMAIN-SUFFIX,p0.meituan.net,REJECT
 DOMAIN-KEYWORD,meituan.net/groceryimages,REJECT
 DOMAIN-KEYWORD,meituan.net/mallimages,REJECT
 DOMAIN-SUFFIX,grocery-mtapp.meituan.com,REJECT
-IP-CIDR,111.77.198.82,REJECT
+IP-CIDR,111.77.198.82/28,REJECT
