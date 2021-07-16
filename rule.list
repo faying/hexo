@@ -105,3 +105,10 @@ DOMAIN-KEYWORD,meituan.net/groceryimages,REJECT
 DOMAIN-KEYWORD,meituan.net/mallimages,REJECT
 DOMAIN-SUFFIX,grocery-mtapp.meituan.com,REJECT
 IP-CIDR,111.77.198.82/28,REJECT
+DOMAIN-SUFFIX,crash.xiaohongshu.com,REJECT
+DOMAIN-SUFFIX,fe-static.xhscdn.com,REJECT
+DOMAIN-SUFFIX,ads-video-al.xhscdn.com,REJECT
+DOMAIN-SUFFIX,apppush.xiaohongshu.com,REJECT
+DOMAIN-SUFFIX,fengkongcloud.com,REJECT
+DOMAIN-KEYWORD,www.xiaohongshu.com/speedtest,REJECT
+DOMAIN-SUFFIX,sdkapp.uve.weibo.com,REJECT
