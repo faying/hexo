@@ -56,9 +56,9 @@ DOMAIN-SUFFIX,adstats.teencentmusic.com,REJECT-DROP
 DOMAIN-SUFFIX,sy.cl2009.com,REJECT
 DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net,REJECT-DROP
 DOMAIN-SUFFIX,dreport.meituan.net,REJECT-DROP
-DOMAIN-SUFFIX,sankuai.com,REJECT
+DOMAIN-SUFFIX,sankuai.com,REJECT-DROP
 DOMAIN-SUFFIX,catdot.dianping.com,REJECT-DROP
-DOMAIN-SUFFIX,neixin.cn,REJECT
+DOMAIN-SUFFIX,neixin.cn,REJECT-DROP
 DOMAIN-SUFFIX,report.meituan.com,REJECT-DROP
 DOMAIN-SUFFIX,hreport.meituan.com,REJECT-DROP
 DOMAIN-SUFFIX,googleadservices.com,REJECT-DROP
