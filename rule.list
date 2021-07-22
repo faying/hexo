@@ -111,3 +111,4 @@ DOMAIN-SUFFIX,apppush.xiaohongshu.com,REJECT-DROP
 DOMAIN-SUFFIX,fengkongcloud.com,REJECT-DROP
 DOMAIN-KEYWORD,www.xiaohongshu.com/speedtest,REJECT-DROP
 DOMAIN-SUFFIX,sdkapp.uve.weibo.com,REJECT-DROP
+DOMAIN-SUFFIX,login.windows.net,Proxy
